@@ -13,7 +13,7 @@ Run Spigot's BuildTools concurrently.
 + Adjust as appropriate
   + Options for BuildTools.jar at the top of the code
   + Number of concurrent builds (adjust the value of ThreadPoolExecutor at the bottom of the code)
-+ Run `python run.py`
++ Run `python main.py`
 
 ## Disclaimer
 The author assumes no responsibility if your PC hangs or breaks using this.
